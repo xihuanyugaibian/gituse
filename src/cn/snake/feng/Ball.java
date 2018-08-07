@@ -4,7 +4,10 @@ import java.awt.Color;
 import java.awt.Graphics;
 import java.util.Random;
 
+import org.omg.Messaging.SyncScopeHelper;
+
 public class Ball {
+	// 调试文件
 	private int x;
 	private int y;
 	private Color color;
