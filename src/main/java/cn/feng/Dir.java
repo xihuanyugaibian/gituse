@@ -1,4 +1,4 @@
-package cn.snake.feng;
+package cn.feng;
 
 /**
  * @version 方向

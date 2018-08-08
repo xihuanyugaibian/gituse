@@ -1,4 +1,4 @@
-package cn.snake.feng;
+package cn.feng;
 
 import java.util.ArrayList;
 

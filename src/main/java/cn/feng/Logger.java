@@ -1,4 +1,4 @@
-package cn.snake.feng;
+package cn.feng;
 
 import java.io.File;
 import java.io.FileWriter;

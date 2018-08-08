@@ -1,4 +1,4 @@
-package cn.snake.feng;
+package cn.feng;
 
 import java.awt.Color;
 import java.awt.Graphics;

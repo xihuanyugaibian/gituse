@@ -1,4 +1,4 @@
-package cn.snake.feng;
+package cn.feng;
 
 public class Snode {
 	private int x;

@@ -1,4 +1,4 @@
-package cn.snake.feng;
+package cn.feng;
 
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
